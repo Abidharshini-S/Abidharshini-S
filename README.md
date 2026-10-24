@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CGPA-8.776-8B5CF6?style=for-the-badge" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/CGPA-8.6-8B5CF6?style=for-the-badge" alt="CGPA"/>
   <img src="https://img.shields.io/badge/Graduation-May%202028-7C3AED?style=for-the-badge" alt="Graduation"/>
   <img src="https://img.shields.io/badge/IEEE-Student%20Member-6D28D9?style=for-the-badge" alt="IEEE"/>
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu-8B5CF6?style=for-the-badge" alt="Location"/>
@@ -33,7 +33,7 @@
 const abidharshini = {
   role: "Computer Science Engineering Student",
   college: "Nandha Engineering College",
-  cgpa: 8.776,
+  cgpa: 8.6,
   interests: ["AI/ML", "Deep Learning", "Full Stack Development", "IoT"],
   currentFocus: "Agentic AI and Intelligent Automation",
   goal: "Build useful real-world technology solutions",
